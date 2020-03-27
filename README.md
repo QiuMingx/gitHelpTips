@@ -32,3 +32,10 @@ git fetch --all
 
 git reset --hard origin/master
 ```
+### 3. `git checkout` 删除本地某个文件后 如何从remote端获取
+```
+例如删除了当前目录下的README.md文件，要恢复当前remote的版本:
+
+git checkout README.md
+
+```

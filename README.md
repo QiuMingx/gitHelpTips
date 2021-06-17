@@ -45,3 +45,10 @@ git checkout README.md
 $ git commit --amend
 
 ```
+### 5. `git revert -n` 回退到某次提交
+```
+
+$ git revert -n 97ea0f9
+
+```
+

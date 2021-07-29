@@ -51,6 +51,12 @@ $ git commit --amend
 $ git revert -n 97ea0f9
 
 ```
-git reset --hard HEAD
+```
+### 5. `git reset --hard HEAD` 回退到版本
+```
+$  git reset --hard HEAD
+
+```
+
 
 

@@ -51,12 +51,15 @@ $ git commit --amend
 $ git revert -n 97ea0f9
 
 ```
-```
-### 5. `git reset --hard HEAD` 回退到版本
+### 6. `git reset --hard HEAD` 回退到版本
 ```
 $  git reset --hard HEAD
 
 ```
+### 6. `git pull origin` 获取远程仓库中develop分支
+```
+$  git pull origin develop 获取远程仓库中develop分支上的commits
 
+```
 
 

@@ -61,5 +61,5 @@ $  git reset --hard HEAD
 $  git pull origin develop 获取远程仓库中develop分支上的commits
 
 ```
-
+yarn install --no-lockfile --registry https://registry.npmmirror.com/`
 
